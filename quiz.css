@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 10px 5px;
+}
+body{
+    background: rgb(173, 172, 172);
+}
+.quiz{
+margin: 10px;
+font-size: 20px;
+}
+
+h1{
+    font-size: 60px;
+    
+}
+.quiz p{
+    margin-top: 2px;
+}
